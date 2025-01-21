@@ -1,0 +1,9 @@
+insert into faseproducao (descricao) values ('Malteamento');
+insert into faseproducao (descricao) values ('Moagem');
+insert into faseproducao (descricao) values ('Misturacao');
+insert into faseproducao (descricao) values ('Fermentacao');
+insert into faseproducao (descricao) values ('Destilacao');
+insert into faseproducao (descricao) values ('Envelhecimento');
+insert into faseproducao (descricao) values ('Engarrafamento');
+insert into faseproducao (descricao) values ('Rotulagem');
+insert into faseproducao (descricao) values ('ArmazenarArmazem');

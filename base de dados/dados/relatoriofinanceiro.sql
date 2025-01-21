@@ -1,0 +1,10 @@
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-06-02 21:42:40', 'amet eleifend pede libero quis orci nullam molestie nibh in', 'at feugiat');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-03-29 04:50:54', 'ac enim in tempor turpis nec euismod scelerisque quam turpis', 'odio donec');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-05-11 18:46:47', 'nunc donec quis orci eget orci vehicula condimentum curabitur in', 'luctus ultricies');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-10-17 22:26:05', 'erat vestibulum sed magna at nunc commodo placerat praesent blandit', 'ut blandit');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-12-23 16:30:02', 'ipsum primis in faucibus orci luctus et ultrices posuere cubilia', 'duis faucibus');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-11-27 09:01:42', 'posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis', 'lorem integer');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-08-21 07:48:38', 'ultrices libero non mattis pulvinar nulla pede ullamcorper augue a', 'platea dictumst');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-07-19 11:24:09', 'nulla dapibus dolor vel est donec odio justo sollicitudin ut', 'luctus et');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-11-30 18:36:04', 'rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem', 'placerat praesent');
+insert into relatoriofinanceiro (id_gestorfinanceiro, dataemissao, descricao, titulo) values (1, '2023-02-22 23:45:25', 'dapibus nulla suscipit ligula in lacus curabitur at ipsum ac', 'quisque arcu');

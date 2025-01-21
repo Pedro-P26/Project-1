@@ -1,0 +1,101 @@
+<mxfile host="Electron" modified="2023-12-21T10:32:09.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="hcpMqcQo_UrvkoioYsjW" version="22.0.3" type="device">
+  <diagram name="Página-1" id="OHVuKhC_8wTI32MuYZ8A">
+    <mxGraphModel dx="925" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EadPF1lnOpNTntjsLozo-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EadPF1lnOpNTntjsLozo-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EadPF1lnOpNTntjsLozo-3" target="EadPF1lnOpNTntjsLozo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-3" value="O gestor procura fornecedor&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EadPF1lnOpNTntjsLozo-6" target="EadPF1lnOpNTntjsLozo-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-6" value="O gestor seleciona a matéria-prima" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-10" value="Tudo disponível?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-11" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="EadPF1lnOpNTntjsLozo-10" parent="1" target="EadPF1lnOpNTntjsLozo-14">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="720" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="250" />
+              <mxPoint x="650" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EadPF1lnOpNTntjsLozo-10" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="495" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-14" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="485" y="740" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-15" value="Confirmar Encomenda" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EadPF1lnOpNTntjsLozo-15" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EadPF1lnOpNTntjsLozo-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-17" value="Cancelar encomenda?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-19" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EadPF1lnOpNTntjsLozo-17" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="495" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-20" value="O gestor cancela encomenda" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="EadPF1lnOpNTntjsLozo-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-26" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="498" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EadPF1lnOpNTntjsLozo-27" target="EadPF1lnOpNTntjsLozo-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-27" value="O gestor efetua o pagamento" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-29" value="O gestor regista faturas/pagamentos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EadPF1lnOpNTntjsLozo-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="EadPF1lnOpNTntjsLozo-29" parent="1" target="EadPF1lnOpNTntjsLozo-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,10 @@
+insert into fornecedor (localidade, morada, email) values ('Nantes', '92 Morrow Hill', 'vbausmann0@macromedia.com');
+insert into fornecedor (localidade, morada, email) values ('Arraial do Cabo', '73 Randy Point', 'nhurrion1@4shared.com');
+insert into fornecedor (localidade, morada, email) values ('El Matama', '3 3rd Court', 'asleney2@house.gov');
+insert into fornecedor (localidade, morada, email) values ('Kōfu-shi', '336 Florence Hill', 'jbinch3@github.io');
+insert into fornecedor (localidade, morada, email) values ('Satipo', '4634 Raven Place', 'gturri4@wordpress.org');
+insert into fornecedor (localidade, morada, email) values ('Próchoma', '72 Bobwhite Place', 'hvell5@hhs.gov');
+insert into fornecedor (localidade, morada, email) values ('Jājarm', '2 Hanover Point', 'eabsalom6@cyberchimps.com');
+insert into fornecedor (localidade, morada, email) values ('Funchal', '10 Hintze Park', 'rtantrum7@mac.com');
+insert into fornecedor (localidade, morada, email) values ('Belmullet', '1 Everett Court', 'rkemmett8@ted.com');
+insert into fornecedor (localidade, morada, email) values ('Huangtan', '734 Del Sol Terrace', 'cpiddlehinton9@reverbnation.com');

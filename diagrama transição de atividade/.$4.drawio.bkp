@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2023-12-12T15:26:55.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="yg3-l0IzSb-b1olowaY5" version="22.0.3" type="device">
+  <diagram name="Página-1" id="AxWOU-LPAeYPAdYQ-Egs">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="9Vow1-7Fdn1nx3kckfeQ-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-3" value="O gestor de encomenda/finaceiro efetuam registo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="9Vow1-7Fdn1nx3kckfeQ-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-15" value="Registar faturas e pagamentos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="9Vow1-7Fdn1nx3kckfeQ-15" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Vow1-7Fdn1nx3kckfeQ-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="245" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

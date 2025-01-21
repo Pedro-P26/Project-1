@@ -1,0 +1,4 @@
+insert into funcionario (username, password, perfil, nome, email, localidade, telefone, salario) values ('snuss0', 'dL6(3nc%MJ"pu', 'gestorfinanceiro', 'Sheree Nuss', 'snuss0@reference.com', 'Avellaneda', '4861084715', 2577.73);
+insert into funcionario (username, password, perfil, nome, email, localidade, telefone, salario) values ('rpedroni1', 'iK3=?R>BV4zx<z', 'gestorfinanceiro', 'Rani Pedroni', 'rpedroni1@bluehost.com', 'Tabasalu', '6392415762', 2003.85);
+insert into funcionario (username, password, perfil, nome, email, localidade, telefone, salario) values ('amoorhead2', 'vC7%J''b9', 'gestorencomenda', 'Adrian Moorhead', 'amoorhead2@yahoo.co.jp', 'Bayonne', '9557490279', 2284.42);
+insert into funcionario (username, password, perfil, nome, email, localidade, telefone, salario) values ('gwalrond3', 'zA7$0awQB/_g4lFc', 'gestorencomenda', 'Gerhard Walrond', 'gwalrond3@webs.com', 'Tongbang', '6739010411', 3689.18);

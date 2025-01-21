@@ -1,0 +1,45 @@
+<mxfile host="Electron" modified="2023-12-21T10:19:49.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="wf_L9WxZPTLUery8IRKr" version="22.0.3" type="device">
+  <diagram name="Página-1" id="AxWOU-LPAeYPAdYQ-Egs">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-12" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="80" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="ENVp9wVS7SQIWdn9kenw-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-14" value="Gestor financeiro visualiza stock de whisky" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="180" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="ENVp9wVS7SQIWdn9kenw-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-16" value="O gestor analise pagamentos realizados" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="190" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="ENVp9wVS7SQIWdn9kenw-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-18" value="Efetua relatório financeiro" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="220" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="ENVp9wVS7SQIWdn9kenw-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENVp9wVS7SQIWdn9kenw-20" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="270" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
